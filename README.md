@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="./faq/style.css">
+<link rel="stylesheet" href="./css/style.css">
 
 # zChnay.github.io
 # SCHNAYDER ARTEM 
