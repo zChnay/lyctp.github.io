@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./faq/style.css">
+
 # zChnay.github.io
 # SCHNAYDER ARTEM 
 ![N|Solid](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9xYyNi2paBBBDQtbowf_3FQZqZURfEKegengi-MHzAt452Gc3ajq9mfpM8DzT-_UPcOA&usqp=CAU)
@@ -15,6 +17,8 @@
 <a href="https://github.com/zChnay" class="button_1669948195175" target="_blank">
   Аккаунт создателя 
 </a> 
+
+
 
 .button_1669948195175 {
     display: inline-block !important;
