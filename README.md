@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="./css/style.css">
 
-![N|Solid](https://j.etagi.com/uploads/2020/07/oblozhka-2.jpg)
+![girlyanda](https://user-images.githubusercontent.com/114712753/206611368-641808bb-7e7e-4cd4-baed-450ff18d205a.jpg)
+
 
 
 # SCHNAYDER ARTEM 
