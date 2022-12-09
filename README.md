@@ -1,13 +1,14 @@
 <link rel="stylesheet" href="./css/style.css">
+
 <div class="nav">
   
 
 ![girlyanda](https://user-images.githubusercontent.com/114712753/206611872-41f4cf1b-46a3-4554-b76e-935875b39b5e.jpg)
 
 
-
-
 ![N|Solid](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9xYyNi2paBBBDQtbowf_3FQZqZURfEKegengi-MHzAt452Gc3ajq9mfpM8DzT-_UPcOA&usqp=CAU)
+
+  
 # SCHNAYDER ARTEM 
 
 
