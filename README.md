@@ -1,6 +1,16 @@
 <link rel="stylesheet" href="./css/style.css">
 
+
+<style>
+.nav div {
+    display: inline-block;
+}
+</style>
+
+
+
 <div class="nav">
+  
   
 
 ![girlyanda](https://user-images.githubusercontent.com/114712753/206611872-41f4cf1b-46a3-4554-b76e-935875b39b5e.jpg)
