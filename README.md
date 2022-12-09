@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="./css/style.css">
 
-![girlyanda](https://user-images.githubusercontent.com/114712753/206611368-641808bb-7e7e-4cd4-baed-450ff18d205a.jpg)
+![N|Solid](https://user-images.githubusercontent.com/114712753/206611368-641808bb-7e7e-4cd4-baed-450ff18d205a.jpg)
 
 
 # SCHNAYDER ARTEM 
