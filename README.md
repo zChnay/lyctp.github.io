@@ -33,9 +33,7 @@
   
 <div>
  
-    
-![logo](https://user-images.githubusercontent.com/114712753/206614310-07655877-007c-4ba0-99b9-a7543975755e.jpg)
-
+<a href="https://portal.tpu.ru/lyceum"><img src="logo.jpg"></a>
     
   </div>
   
