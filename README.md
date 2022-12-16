@@ -9,6 +9,7 @@
 
 
 
+
 <div class="nav">
   
   
@@ -18,15 +19,14 @@
 <script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
 
 </div>
-        
-</div>
+       
   
   
   
 <div>
 <a href="https://portal.tpu.ru/lyceum"><img src="logo.jpg"></a> 
 </div>
-  
+ </div> 
   
 ![girlyanda](https://user-images.githubusercontent.com/114712753/206611872-41f4cf1b-46a3-4554-b76e-935875b39b5e.jpg)
 
