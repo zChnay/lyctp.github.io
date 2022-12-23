@@ -37,7 +37,7 @@
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 100.00%; padding-top: 0; height: 0;"><iframe title="Interactive image" frameborder="0" width="1200" height="1200" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/6376ee6fd08e4e0018fe7af1" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
 
-![mermaid-diagram-2022-12-23-092351](https://user-images.githubusercontent.com/114712753/209258686-6c62be7e-06c9-4594-a782-f98d3f5f72ff.png)
+
 
 
 <a href="https://github.com/zChnay" class="button_1669948195175" target="_blank">
